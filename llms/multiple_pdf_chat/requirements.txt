@@ -1,0 +1,16 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+openai
+faiss-cpu
+tiktoken
+
+#altair==4.0
+
+# uncomment to use huggingface llms
+# huggingface-hub
+
+# # uncomment to use instructor embeddings
+# InstructorEmbedding
+# sentence-transformers
